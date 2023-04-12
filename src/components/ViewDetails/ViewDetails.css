@@ -1,0 +1,22 @@
+
+
+
+.cart-container{
+  border-radius: 4px;
+    height:461px ;
+    width: 424px;
+    background-color: #6f6fda ;
+}
+.apply {
+  display: block;
+  width: 100%; 
+  text-align: center;
+  background-color: #2b7ed6; 
+  color: rgb(179, 47, 47); 
+  padding: 10px; 
+  border: none; 
+  cursor: pointer; 
+ font-weight: bold;
+ border-radius: 4px;
+ text-decoration: none;
+}

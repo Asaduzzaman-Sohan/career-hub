@@ -1,0 +1,29 @@
+
+[
+    {
+        "id": 1,
+        "img": "https://th.bing.com/th/id/OIP.xi_VY54V535hztHz11VTyQHaFL?pid=ImgDet&rs=1",
+        "name": "Web development",
+        "feature": "250 Jobs "
+      },
+      {
+        "id": 2,
+        "img": "https://th.bing.com/th/id/R.74328fbe6a3b396c0fa1605ad3ab267c?rik=6lL0RrcBRdMv4g&riu=http%3a%2f%2fwww.sphinx-solution.com%2fblog%2fwp-content%2fuploads%2f2016%2f08%2fmachine-learning.jpg&ehk=%2feFhsGqwFboSdL7iR%2bI0H9pqgcljfjTQF1Xfalm4h5I%3d&risl=&pid=ImgRaw&r=0",
+        "name": "Machine Learning",
+        "feature": "10 Jobs"
+      },
+      {
+        "id": 3,
+        "img": "https://th.bing.com/th/id/OIP.xZVb18yE-tmSQPSItwRUegHaE8?pid=ImgDet&rs=1",
+        "name": "Data scientist",
+        "feature": "15 Jobs "
+      },
+      {
+        "id": 4,
+        "img": "https://th.bing.com/th/id/OIP.g3v91dzJZkv-zY97DUU56wHaEK?pid=ImgDet&rs=1",
+        "name": "App Developer",
+        "feature": "23 Jobs"
+      }
+      
+      
+]
